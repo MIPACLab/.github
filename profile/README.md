@@ -3,14 +3,11 @@
   <img src="https://oss.openmmlab.com/www/openmmlab_logo.png" height="100"/>
   <div>&nbsp;</div>
   <div align="center">
-    <b><font size="5">OpenMMLab website</font></b>
-    <sup>
-    </sup>
 </div>
 <div>&nbsp;</div>
 </div>
 
-OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era. It aims to
+OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era.
 
 - provide high-quality libraries to reduce the difficulties in algorithm reimplementation
 - create efficient deployment toolchains targeting a variety of backends and devices
