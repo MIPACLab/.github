@@ -1,6 +1,6 @@
 
-<div align="center">
-  <img src="https://oss.openmmlab.com/www/openmmlab_logo.png" height="100"/>
+<div align="center", style="margin-top=0, margin-bottom=0">
+  <img src="https://github.com/MIPACLab/.github/blob/master/logo.png" height="700",width="300"/>
   <div>&nbsp;</div>
   <div align="center">
 </div>
