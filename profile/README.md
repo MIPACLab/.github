@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/MIPACLab/.github/blob/master/logo.png" height="200"/>
+  <img src="https://github.com/MIPACLab/.github/blob/master/logo.png" height="150"/>
   <div>&nbsp;</div>
   <div align="center">
 </div>
